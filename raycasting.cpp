@@ -1,3 +1,10 @@
+/*
+
+Resources used:
+	1. https://youtu.be/NbSee-XM7WA (great tutorial by javidx9)
+
+*/
+
 #include <iostream>
 #include <Windows.h>
 #include <string>
